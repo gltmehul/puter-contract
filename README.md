@@ -5,6 +5,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 To deploy:
 
 ```shell
+yarn install
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network puter
 ```
